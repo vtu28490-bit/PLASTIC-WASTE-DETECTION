@@ -1,0 +1,6 @@
+train: dataset/train/images
+val: dataset/val/images
+
+names:
+  0: plastic
+  1: non_plastic
